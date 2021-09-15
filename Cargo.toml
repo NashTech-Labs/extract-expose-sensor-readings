@@ -1,0 +1,3 @@
+
+[workspace]
+members = ["read_file_data", "read_sensor_data"]
